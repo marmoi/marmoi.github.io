@@ -29,7 +29,7 @@ Korkeakoulunkatu 7
 Finland
 
 Office: Korkeakoulunkatu 1, Tietotalo building C338
-Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
+Email: irene.martinmorato[at]tuni.fi
 ```
 
 
