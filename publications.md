@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-## <img src="../img/papers.png" height="50px"> Publications:
+## <img src="../img/papers.png" height="50px">
 
 * *Peer-reviewed journal publications*
 
