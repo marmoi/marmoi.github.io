@@ -9,6 +9,9 @@ avatar: "/img/og_irene.png"
 
 theme: jekyll-theme-minimal
 
+# List of links in the navigation bar
+navbar-links:
+    Publications: "publications"
 
 author:
     name: Irene Martín Morató
