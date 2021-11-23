@@ -5,7 +5,7 @@ title: Irene Martín Morató
 
 description: A bit about myself and my research
 
-avatar: "/img/irene.png"
+avatar: "/img/og_irene.png"
 
 theme: jekyll-theme-minimal
 
@@ -14,6 +14,7 @@ author:
     name: Irene Martín Morató
     email: "irene.martinmorato[at]tuni.fi"
     github: marmoi
+    og_image: "/img/og_irene.png"
     
 footer-links-active:
     email: true
