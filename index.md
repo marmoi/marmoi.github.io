@@ -36,7 +36,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ## <img src="../img/datasets.png" height="50px"> Datasets
 
 - [MAESTRO Synthetic](https://zenodo.org/record/5126478): Multiple Annotator Estimated STROng labels, contains 20 audio files created using Scaper, each of them 3 min long.  
-- [MACS](https://zenodo.org/record/5114771): Multi-Annotator Captioned Soundscapes, contains audio captions and corresponding audio tags for a number of 3930 audio files of the [TAU Urban Acoustic Scenes 2019] (https://zenodo.org/record/2589280) development dataset (airport, public square and park)
+- [MACS](https://zenodo.org/record/5114771): Multi-Annotator Captioned Soundscapes, contains audio captions and corresponding audio tags for a number of 3930 audio files of the [TAU Urban Acoustic Scenes 2019](https://zenodo.org/record/2589280) development dataset (airport, public square and park)
 
 ## <img src="../img/papers.png" height="50px"> Publications:
 
