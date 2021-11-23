@@ -1,0 +1,22 @@
+url: "https://marmoi.github.io/" 
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title: Irene Martín Morató
+
+description: A bit about myself and my research
+
+avatar: "img/irene.png"
+
+theme: jekyll-theme-minimal
+
+
+author:
+    name: Irene Martín Morató
+    email: "irene.martinmorato[at]tuni.fi"
+    github: marmoi
+    
+footer-links-active:
+    email: true
+    github: true
+    linkedin: true
+    
