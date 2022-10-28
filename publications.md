@@ -17,16 +17,19 @@ doi: 10.1109/ACCESS.2020.3031685
 doi: 10.1109/TASLP.2018.2865615
 
 * *Peer-reviewed conference publications*
+  * I. Martín-Morató, M. Harju, A. Mesaros “A summarization approach to evaluating audio captioning” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). November 2022.
 
-  * I Martín-Morató, A Mesaros “Diversity and bias in audio captioning datasets” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021). November 2021.
+  * I. Martín-Morató, F. Paissan, A. Ancilotto, T. Heittola, A. Mesaros, E. Farella, A. Brutti, T. Virtanen "Low-complexity acoustic scene classification in DCASE 2022 Challenge" Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). November 2022.
 
-  * I Martín-Morató, T Heittola, A Mesaros, T Virtanen “Low-complexity acoustic scene classification for multi-device audio: analysis of DCASE 2021 Challenge systems” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021). November 2021.
+  * I. Martín-Morató, A. Mesaros “Diversity and bias in audio captioning datasets” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021). November 2021.
+
+  * I. Martín-Morató, T. Heittola, A. Mesaros, T. Virtanen “Low-complexity acoustic scene classification for multi-device audio: analysis of DCASE 2021 Challenge systems” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021). November 2021.
 
   * I. Martín-Morató, M. Harju, A. Mesaros, “Crowdsourcing Strong Labels for Sound Event Detection,” IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA). October 2021.
 
   * I. Martín-Morató, A. Mesaros, “What is the ground truth? Reliability of multi-annotator data for audio tagging”, 29th European Signal Processing Conference (EUSIPCO), Dublin, Ireland, August 2021.
 
-  * Gustau Camps-Valls, Daniel H Svendsen, Jordi Cortés-Andrés, Álvaro Moreno-Martínez, Adrián Pérez-Suay, Jose Adsuara, Irene Martín, Maria Piles, Jordi Muñoz-Marí, Luca Martino, “Living in the Physics – Machine Learning Interplay for Earth Observation,” PGAI AAAI Symposium, 2020.
+  * G. Camps-Valls, D. H. Svendsen, J. Cortés-Andrés, Á. Moreno-Martínez, A. Pérez-Suay, J. Adsuara, I. Martín, M. Piles, J. Muñoz-Marí, L. Martino, “Living in the Physics – Machine Learning Interplay for Earth Observation,” PGAI AAAI Symposium, 2020.
 
   * I. Martín-Morató, M. Cobos and F. J. Ferri, “Performance analysis of audio event classification using deep features under adverse acoustic conditions,” International Congress on Acoustics (ICA), Aachen, Germany, Sep. 2019.
 doi: 10.18154/RWTH-CONV-239395
