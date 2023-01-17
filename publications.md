@@ -7,6 +7,9 @@ title: Publications
 
 * *Peer-reviewed journal publications*
 
+    * I. Martín-Morató, A. Mesaros, “Strong labeling of sound events using crowdsourced weak labels and annotator competence estimation,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
+doi:  10.1109/TASLP.2022.3233468 
+
   * I. Martín-Morató, M. Cobos and F. J. Ferri, “Adaptive Distance-Based Pooling in Convolutional Neural Networks for Audio Event Classification,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28 , pp. 1925-1935, 2020.
 doi: 10.1109/TASLP.2020.3001683
 
