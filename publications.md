@@ -20,6 +20,8 @@ doi: 10.1109/ACCESS.2020.3031685
 doi: 10.1109/TASLP.2018.2865615
 
 * *Peer-reviewed conference publications*
+  * I. Martín-Morató, M. Harju, P. Ahokas, A. Mesaros “Training sound event detection with soft labels from crowdsourced annotations” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) Rhodes Island, Greece. June 2023.
+  
   * I. Martín-Morató, M. Harju, A. Mesaros “A summarization approach to evaluating audio captioning” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). November 2022.
 
   * I. Martín-Morató, F. Paissan, A. Ancilotto, T. Heittola, A. Mesaros, E. Farella, A. Brutti, T. Virtanen "Low-complexity acoustic scene classification in DCASE 2022 Challenge" Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). November 2022.
