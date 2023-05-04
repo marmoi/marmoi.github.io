@@ -12,7 +12,7 @@ My research interests include audio signal processing, machine learning, acousti
 ## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my 2-page [CV](../documents/Martin_CV.pdf).
 I have been working as a postdoctoral research fellow at the [Machine Listening Group](https://research.tuni.fi/machinelistening/),
-at [Tampere University](https://www.tuni.fi/en) since 2020. Between 2019 and 2020 I was a Postdoc in the [Image and Signal Processing group](https://isp.uv.es/).
+at [Tampere University](https://www.tuni.fi/en) since 2020. Between February and August of 2020 I was a Postdoc in the [Image and Signal Processing group](https://isp.uv.es/).
 I received my PhD in 2019 from the [Universitat de València](https://www.uv.es/), where I worked in the 
 [signal processing and acoustic technology group](https://spat.blogs.uv.es/). 
 I have worked on acoustic signal processing, more specifically in the field of sound event recognition, the topic of my PhD thesis.
