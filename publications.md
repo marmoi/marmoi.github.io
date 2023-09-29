@@ -20,11 +20,15 @@ doi: 10.1109/ACCESS.2020.3031685
 doi: 10.1109/TASLP.2018.2865615
 
 * *Peer-reviewed conference publications*
+  * I. Martín-Morató, P. Ahokas, A. Mesaros “Aggregate or separate: learning from multi-annotator noisy labels for best classification performance” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2023 Workshop (DCASE2023). Tampere, Finland. September 2023.
+
+  * J. Afolaranmi, I. Martín-Morató, A. Mesaros “Sound event classification with object-based labels” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2023). Tampere, Finland. September 2023.
+
   * I. Martín-Morató, M. Harju, P. Ahokas, A. Mesaros “Training sound event detection with soft labels from crowdsourced annotations” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) Rhodes Island, Greece. June 2023.
   
-  * I. Martín-Morató, M. Harju, A. Mesaros “A summarization approach to evaluating audio captioning” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). November 2022.
+  * I. Martín-Morató, M. Harju, A. Mesaros “A summarization approach to evaluating audio captioning” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). Nancy, France. November 2022.
 
-  * I. Martín-Morató, F. Paissan, A. Ancilotto, T. Heittola, A. Mesaros, E. Farella, A. Brutti, T. Virtanen "Low-complexity acoustic scene classification in DCASE 2022 Challenge" Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). November 2022.
+  * I. Martín-Morató, F. Paissan, A. Ancilotto, T. Heittola, A. Mesaros, E. Farella, A. Brutti, T. Virtanen "Low-complexity acoustic scene classification in DCASE 2022 Challenge" Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). Nancy, France. November 2022.
 
   * I. Martín-Morató, A. Mesaros “Diversity and bias in audio captioning datasets” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021). November 2021.
 
