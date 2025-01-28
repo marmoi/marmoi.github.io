@@ -6,8 +6,9 @@ title: Publications
 ## <img src="../img/papers.png" height="50px">
 
 * *Peer-reviewed journal publications*
-
-    * I. Martín-Morató, A. Mesaros, “Strong labeling of sound events using crowdsourced weak labels and annotator competence estimation,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
+  * Haapaniemi, R., Mesaros, A., Harju, M., Morató, I. M., & Hirvonen, M.,“ Contrasting a semiotic conceptualization of translation with AI text production: The case of audio captioning”. STRIDON: Journal of Studies in Translation and Interpreting, 4(1), 25-51, 2024.
+  
+  * I. Martín-Morató, A. Mesaros, “Strong labeling of sound events using crowdsourced weak labels and annotator competence estimation,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 doi:  10.1109/TASLP.2022.3233468 
 
   * I. Martín-Morató, M. Cobos and F. J. Ferri, “Adaptive Distance-Based Pooling in Convolutional Neural Networks for Audio Event Classification,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28 , pp. 1925-1935, 2020.
@@ -20,9 +21,20 @@ doi: 10.1109/ACCESS.2020.3031685
 doi: 10.1109/TASLP.2018.2865615
 
 * *Peer-reviewed conference publications*
+  
+  * Harju, M., Martín-Morató, I., Heittola, T., & Mesaros, A.,“Sound event detection with soft labels: a new perspective on evaluation”. In 32nd European Signal Processing Conference (EUSIPCO) (pp. 66-70). IEEE, (2024, August).
+  
+  * Suzić, S., Martín-Morató, I., Simić, N., Raghavaraju, C., Heittola, T., Stanojev, V., & Bajovic, D., “UNS Exterior Spatial Sound Events dataset for urban monitoring”. In 32nd European Signal Processing Conference (EUSIPCO) (pp. 176-180). IEEE, (2024, August).
+
+  * I. Martín-Morató, M. Harju, A. Mesaros “Audio captioning in Finnish and English with task-dependent output” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024). Tokyo, Japan. October 2024.
+  
+  * Cornell, S., Ebbers, J., Douwes, C., Martín-Morató, I., Harju, M., Mesaros, A., & Serizel, R., “DCASE 2024 Task 4: Sound Event Detection with Heterogeneous Data and Missing Labels.” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024). Tokyo, Japan. October 2024. 
+
+  * Schmid, F., Primus, P., Heittola, T., Mesaros, A., Martín-Morató, I., Koutini, K., & Widmer, G., “Data-Efficient Low-Complexity Acoustic Scene Classification in the DCASE 2024 Challenge.” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024). Tokyo, Japan. October 2024.
+  
   * I. Martín-Morató, P. Ahokas, A. Mesaros “Aggregate or separate: learning from multi-annotator noisy labels for best classification performance” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2023 Workshop (DCASE2023). Tampere, Finland. September 2023.
 
-  * J. Afolaranmi, I. Martín-Morató, A. Mesaros “Sound event classification with object-based labels” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2023). Tampere, Finland. September 2023.
+  * J. Afolaranmi, I. Martín-Morató, A. Mesaros “Sound event classification with object-based labels” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2023 Workshop (DCASE2023). Tampere, Finland. September 2023.
 
   * I. Martín-Morató, M. Harju, P. Ahokas, A. Mesaros “Training sound event detection with soft labels from crowdsourced annotations” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) Rhodes Island, Greece. June 2023.
   
