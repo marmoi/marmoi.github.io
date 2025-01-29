@@ -10,7 +10,7 @@ I am currently working with Professor Tuomas Virtanen, group leader of the [Audi
 My research interests include audio signal processing, machine learning, acoustic scene classification, sound event detection and audio captioning.
 
 ## <img src="../img/career.png" height="50px"> My career
-For a brief and compact overview, take a look at my 2-page [CV](../documents/Martin_CV.pdf).
+For a brief and compact overview, take a look at my 2-page [CV](../documents/Martin_CV_short.pdf).
 I have been working as a postdoctoral research fellow at the [Machine Listening Group](https://research.tuni.fi/machinelistening/) with assistant professor Annamaria Mesaros,
 at [Tampere University](https://www.tuni.fi/en) between 2020 and 2024. Between February and August of 2020 I was a Postdoc in the [Image and Signal Processing group](https://isp.uv.es/).
 I received my PhD in 2019 from the [Universitat de València](https://www.uv.es/), where I worked in the 
