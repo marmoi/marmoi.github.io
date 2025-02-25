@@ -6,7 +6,7 @@ title: Publications
 ## <img src="../img/papers.png" height="50px">
 
 * *Peer-reviewed journal publications*
-  * Haapaniemi, R., Mesaros, A., Harju, M., Morató, I. M., & Hirvonen, M.,“ Contrasting a semiotic conceptualization of translation with AI text production: The case of audio captioning”. STRIDON: Journal of Studies in Translation and Interpreting, 4(1), 25-51, 2024.
+  * Haapaniemi, R., Mesaros, A., Harju, M., Morató, I. M., & Hirvonen, M., “Contrasting a semiotic conceptualization of translation with AI text production: The case of audio captioning”. STRIDON: Journal of Studies in Translation and Interpreting, 4(1), 25-51, 2024.
   
   * I. Martín-Morató, A. Mesaros, “Strong labeling of sound events using crowdsourced weak labels and annotator competence estimation,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 DOI: [10.1109/TASLP.2022.3233468](https://ieeexplore.ieee.org/document/10016759)
