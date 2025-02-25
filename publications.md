@@ -45,9 +45,9 @@ DOI: [10.1109/TASLP.2022.3233468](https://ieeexplore.ieee.org/document/10016759)
 
   * I. Martín-Morató, T. Heittola, A. Mesaros, T. Virtanen “Low-complexity acoustic scene classification for multi-device audio: analysis of DCASE 2021 Challenge systems” Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021). November 2021.
 
-  * I. Martín-Morató, M. Harju, A. Mesaros, “Crowdsourcing Strong Labels for Sound Event Detection,” IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA). October 2021.
+  * I. Martín-Morató, M. Harju, A. Mesaros, “Crowdsourcing Strong Labels for Sound Event Detection,” IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA). October 2021. DOI: [10.1109/WASPAA52581.2021.9632761](https://ieeexplore.ieee.org/document/9632761)
 
-  * I. Martín-Morató, A. Mesaros, “What is the ground truth? Reliability of multi-annotator data for audio tagging”, 29th European Signal Processing Conference (EUSIPCO), Dublin, Ireland, August 2021.
+  * I. Martín-Morató, A. Mesaros, “What is the ground truth? Reliability of multi-annotator data for audio tagging”, 29th European Signal Processing Conference (EUSIPCO), Dublin, Ireland, August 2021. DOI: [10.23919/EUSIPCO54536.2021.9616087](https://ieeexplore.ieee.org/document/9115233)
 
   * G. Camps-Valls, D. H. Svendsen, J. Cortés-Andrés, Á. Moreno-Martínez, A. Pérez-Suay, J. Adsuara, I. Martín, M. Piles, J. Muñoz-Marí, L. Martino, “Living in the Physics – Machine Learning Interplay for Earth Observation,” PGAI AAAI Symposium, 2020.
 
