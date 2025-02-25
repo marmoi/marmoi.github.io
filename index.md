@@ -5,7 +5,7 @@ subtitle: Postdoctoral Research Fellow, Tampere University
 ---
 
 ## <img src="../img/about_me.png" height="50px"> 
-I am currently working with Professor Tuomas Virtanen, group leader of the [Audio Research Group](https://webpages.tuni.fi/arg/) at Tampere university.
+I am currently working with Professor Tuomas Virtanen, group leader of the [Audio Research Group](https://webpages.tuni.fi/arg/) at Tampere university. We are currently working on [Zero-shot Active learning of acoustic models](https://research.fi/en/results/funding/34426), a Research Council of Finland funded project.
 
 My research interests include audio signal processing, machine learning, acoustic scene classification, sound event detection and audio captioning.
 
